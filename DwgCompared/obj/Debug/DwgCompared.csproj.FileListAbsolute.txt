@@ -1,0 +1,39 @@
+E:\MyOwnProject\DwgCompared\DwgCompared\bin\Debug\DwgCompared.dll
+E:\MyOwnProject\DwgCompared\DwgCompared\bin\Debug\DwgCompared.pdb
+E:\MyOwnProject\DwgCompared\DwgCompared\bin\Debug\AcCoreMgd.dll
+E:\MyOwnProject\DwgCompared\DwgCompared\bin\Debug\AcDbMgd.dll
+E:\MyOwnProject\DwgCompared\DwgCompared\bin\Debug\AcMgd.dll
+E:\MyOwnProject\DwgCompared\DwgCompared\bin\Debug\AdWindows.dll
+E:\MyOwnProject\DwgCompared\DwgCompared\bin\Debug\AcTcMgd.dll
+E:\MyOwnProject\DwgCompared\DwgCompared\bin\Debug\AcCui.dll
+E:\MyOwnProject\DwgCompared\DwgCompared\obj\Debug\DwgCompared.Form1.resources
+E:\MyOwnProject\DwgCompared\DwgCompared\obj\Debug\DwgCompared.csproj.GenerateResource.Cache
+E:\MyOwnProject\DwgCompared\DwgCompared\obj\Debug\DwgCompared.dll
+E:\MyOwnProject\DwgCompared\DwgCompared\obj\Debug\DwgCompared.pdb
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Debug\DwgCompared.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Debug\DwgCompared.pdb
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcCoreMgd.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcDbMgd.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcMgd.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AdWindows.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcTcMgd.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcCui.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.Form1.resources
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.csproj.CopyComplete
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.pdb
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\bin\Debug\DwgCompared.dll
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\bin\Debug\DwgCompared.pdb
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcCoreMgd.dll
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcDbMgd.dll
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcMgd.dll
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AdWindows.dll
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcTcMgd.dll
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\bin\Debug\AcCui.dll
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.Form1.resources
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.dll
+C:\Users\Administrator\Documents\WeChat Files\jingrui8823\FileStorage\File\2020-05\DwgCompared\DwgCompared\DwgCompared\obj\Debug\DwgCompared.pdb
+E:\MyOwnProject\DwgCompared\DwgCompared\obj\Debug\DwgCompared.csprojResolveAssemblyReference.cache

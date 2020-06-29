@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Release\DwgCompared.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Release\DwgCompared.pdb
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Release\AcCoreMgd.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Release\AcDbMgd.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Release\AcMgd.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Release\AdWindows.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Release\AcTcMgd.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\bin\Release\AcCui.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Release\DwgCompared.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Release\DwgCompared.Form1.resources
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Release\DwgCompared.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Release\DwgCompared.csproj.CopyComplete
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Release\DwgCompared.dll
+C:\Users\admin\Desktop\DwgCompared\DwgCompared\DwgCompared\obj\Release\DwgCompared.pdb
